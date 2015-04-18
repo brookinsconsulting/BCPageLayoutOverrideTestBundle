@@ -1,0 +1,19 @@
+{
+    "name" : "brookinsconsulting/bcpagelayoutoverridetest-bundle",
+    "type" : "library",
+    "description" : "An example of how to override the default pagelayout template of the default demo-bundle for eZ Publish / eZ Platform",
+    "license" : "GPL-2.0",
+    "authors" : [
+        {
+            "name" : "Brookins Consulting",
+            "email": "info@brookinsconsulting.com"
+        }
+    ],
+    "minimum-stability" : "dev",
+    "autoload" : {
+        "psr-0" : {
+            "BrookinsConsulting\\BCPageLayoutOverrideTestBundle" : ""
+        }
+    },
+    "target-dir" : "BrookinsConsulting/BCPageLayoutOverrideTestBundle"
+}
