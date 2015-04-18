@@ -4,11 +4,11 @@ BCPageLayoutOverrideTestBundle represent an working ready to use example of all 
 
 # Installation via Composer
 
-    `$ cd /path/to/ezpublish-root-directory; composer.phar require "brookinsconsulting/bcpagelayoutoverridetestbundle" "dev-master";`
+    $ cd /path/to/ezpublish-root-directory; composer.phar require "brookinsconsulting/bcpagelayoutoverridetestbundle" "dev-master";
 
 # Uninstall via Composer
 
-    `$ cd /path/to/ezpublish-root-directory; composer.phar remove brookinsconsulting/bcpagelayoutoverridetestbundle;`
+    $ cd /path/to/ezpublish-root-directory; composer.phar remove brookinsconsulting/bcpagelayoutoverridetestbundle;
 
 # Manual Activation
 
