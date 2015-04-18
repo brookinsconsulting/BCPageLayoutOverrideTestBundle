@@ -51,6 +51,8 @@ If you extend this bundle to provide more features, than more installation steps
 
 * [Forum thread which inspired this example](http://share.ez.no/forums/ez-publish-5-platform/best-way-to-use-override-system-in-ez-publish-5#comment86463)
 
-* [Related bundle inheritance documentation](http://symfony.com/doc/current/cookbook/bundles/inheritance.html)
+* [Related eZ design bundle inheritance documentation](https://doc.ez.no/display/EZP/How+to+create+a+new+design+using+Bundle+Inheritance)
 
-* [Related bundle inheritance issue possible when overriding DemoBundle](https://jira.ez.no/browse/EZP-23575)
+* [Related Symfony bundle inheritance documentation](http://symfony.com/doc/current/cookbook/bundles/inheritance.html)
+
+* [Related eZ bundle inheritance issue possible when overriding DemoBundle](https://jira.ez.no/browse/EZP-23575)
