@@ -1,6 +1,8 @@
 # BCPageLayoutOverrideTestBundle for eZ Publish / eZ Platform
 
-BCPageLayoutOverrideTestBundle represent an working ready to use example of all that is required to override the eZDemoBundle pagelayout.html.twig template provided in the default demo front-end website with eZ Publish / eZ Platform
+BCPageLayoutOverrideTestBundle represent a working, ready to use example of all that is required to override the eZDemoBundle pagelayout.html.twig template provided in the default demo front-end website with eZ Publish / eZ Platform
+
+This solution was also extended to provide an example of the code required to customize template override the eZDemoBundle login.html.twig template
 
 # Installation via Composer
 
@@ -49,7 +51,9 @@ If you extend this bundle to provide more features, than more installation steps
 
 * [License](https://github.com/brookinsconsulting/bcpagelayoutoverridetestbundle/blob/master/LICENSE)
 
-* [Forum thread which inspired this example](http://share.ez.no/forums/ez-publish-5-platform/best-way-to-use-override-system-in-ez-publish-5#comment86463)
+* [Forum thread which inspired the pagelayout example](http://share.ez.no/forums/ez-publish-5-platform/best-way-to-use-override-system-in-ez-publish-5#comment86463)
+
+* [Forum thread which inspired the login example extensions](http://share.ez.no/forums/developer/how-to-add-a-login-box-to-the-frontpage-ezpublish-5.4)
 
 * [Related eZ design bundle inheritance documentation](https://doc.ez.no/display/EZP/How+to+create+a+new+design+using+Bundle+Inheritance)
 
