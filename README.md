@@ -60,3 +60,5 @@ If you extend this bundle to provide more features, than more installation steps
 * [Related Symfony bundle inheritance documentation](http://symfony.com/doc/current/cookbook/bundles/inheritance.html)
 
 * [Related eZ bundle inheritance issue possible when overriding DemoBundle](https://jira.ez.no/browse/EZP-23575)
+
+* [Related eZ Authentication documentation](https://doc.ez.no/display/EZP/Authentication#Authentication-AuthenticationusingSymfonySecuritycomponent)
