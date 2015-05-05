@@ -4,6 +4,8 @@ BCPageLayoutOverrideTestBundle represent a working, ready to use example of all 
 
 This solution was also extended to provide an example of the code required to customize template override the eZDemoBundle login.html.twig template
 
+Later this solution was extended to provide an example of the code required to override content_field templates provided from other bundles, our first example is of the FieldType provided by the NetgenEnhancedSelectionBundle, https://github.com/netgen/NetgenEnhancedSelectionBundle
+
 # Installation via Composer
 
     $ cd /path/to/ezpublish-root-directory; composer.phar require "brookinsconsulting/bcpagelayoutoverridetestbundle" "dev-master";
