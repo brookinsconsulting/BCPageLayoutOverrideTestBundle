@@ -2,9 +2,17 @@
 
 BCPageLayoutOverrideTestBundle represent a working, ready to use example of all that is required to override the eZDemoBundle pagelayout.html.twig template provided in the default demo front-end website with eZ Publish / eZ Platform
 
-This solution was also extended to provide an example of the code required to customize template override the eZDemoBundle login.html.twig template
+## Additional examples
 
-Later this solution was extended to provide an example of the code required to override content_field templates provided from other bundles, our first example is of the FieldType provided by the NetgenEnhancedSelectionBundle, https://github.com/netgen/NetgenEnhancedSelectionBundle
+Each of the following changes were made in waves following the initial publishing of this solution to continue to provide further examples how to override the internals of eZDemoBundle.
+
+Review the [commit log](https://github.com/brookinsconsulting/BCPageLayoutOverrideTestBundle/commits/master) to learn what was changes to support the following. The commit history diff for each of these additions makes learning what to add yourself very clear.
+
+* This solution was also [extended](https://github.com/brookinsconsulting/BCPageLayoutOverrideTestBundle/commit/c8c0324554c815a55ddbc398eed43fb092ea6f9c) to provide an example of the code required to customize template override the eZDemoBundle login.html.twig template
+
+* Later this solution was [extended](https://github.com/brookinsconsulting/BCPageLayoutOverrideTestBundle/commit/e48f57387a3b88c5869300d64e9ff3702eb37a67) to provide an example of the code required to override content_field templates provided from other bundles, our first example is of the FieldType provided by the NetgenEnhancedSelectionBundle, https://github.com/netgen/NetgenEnhancedSelectionBundle
+
+* Later this solution was extended to provide an example of the code required to override the eZDemoBundle page_head_style.html.twig to customize pagelayout background header image (css and bundle image).
 
 # Installation via Composer
 
